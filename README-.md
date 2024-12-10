@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](FireShot Capture 004 - Single-price-grid-component - 127.0.0.1.png)
+![screenshot](FireShotCapture004-Single-price-grid-component-127.0.0.1.png)
 
  
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [taophyc.com](https://www.your-site.com)
+- Website - [taophyc.com](https://taophycc.github.io/Single-price-grid-component/)
 - Frontend Mentor - [@taophycc](https://www.frontendmentor.io/profile/taophycc)
 - Twitter - [@taophyc](https://www.twitter.com/taophyc_)
 
