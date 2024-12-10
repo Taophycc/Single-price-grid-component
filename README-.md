@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [taophycc.github.io](https://your-solution-url.com)
-- Live Site URL: [taophycc.github.io](https://your-live-site-url.com)
+- Solution URL: [taophycc.github.io](https://github.com/Taophycc/Single-price-grid-component.git)
+- Live Site URL: [taophycc.github.io](https://taophycc.github.io/Single-price-grid-component/)
 
 
 ### Built with
