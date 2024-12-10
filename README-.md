@@ -1,5 +1,3 @@
-![FireShot Capture 004 - Single-price-grid-component - 127 0 0 1](https://github.com/user-attachments/assets/98092b53-4520-4005-8af3-0f03e9bc3bab)# Frontend Mentor - Single price grid component solution
-
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -24,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](FireShot Capture 005 - Single-price-grid-component - taophycc.github.io (1).png]
+![screenshot] ![FireShot Capture 004 - Single-price-grid-component - 127 0 0 1](https://github.com/user-attachments/assets/98092b53-4520-4005-8af3-0f03e9bc3bab)# Frontend Mentor - Single price grid component solution
 
 
 
